@@ -1,6 +1,6 @@
 <?php
 
-namespace Zeronights\Route;
+namespace Zeronights\ZN_Route;
 
 class Route {
 	
